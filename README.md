@@ -8,18 +8,16 @@
 
 # Blade UI Kit Art
 
-## A set of renderless components to utilise in your Laravel Blade views.
-
 The logo was heavily inspired on the original isometric grid of the [Laravel Logo](http://github.com/laravel/art).
 
-### Fonts
+## Fonts
 
 The logo is using the following fonts:
 
 - https://fonts.google.com/specimen/Muli
 - https://fonts.google.com/specimen/Hind
 
-### Colors
+## Colors
 
 |                     |#hex     |rgb()             |
 |---                  |---      |---               |
