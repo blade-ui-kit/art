@@ -6,13 +6,11 @@
     </p>
 </p>
 
-------
-
 # Blade UI Kit Art
 
 ## A set of renderless components to utilise in your Laravel Blade views.
 
-The logo was heavily inspired on the original isometric grid of the [Laravel Logo](http://github.com/laravel/art)
+The logo was heavily inspired on the original isometric grid of the [Laravel Logo](http://github.com/laravel/art).
 
 ### Fonts
 
@@ -35,34 +33,20 @@ The logo is using the following fonts:
 |![800](/palette/800.png)|`#73140E`|`rgb(115,20,14)`  |
 |![900](/palette/900.png)|`#4D0E09`|`rgb(77,14,9)`    |
 
-
-
 ## Requirements
 
 - A screen or a printer
-
-
 
 ## Installation
 
 - Open the file; *Right-click* on the image; Choose **"Save image as…"** option;
 
-
-
 ## Changelog
 
 Check out the [CHANGELOG](CHANGELOG.md) in this repository for all the recent changes.
-
-
 
 ## Maintainers
 
 **Blade UI Kit** is developed and maintained by [Dries Vints](https://driesvints.com).
 
 Blade UI Kit **Logo and Branding** is developed and maintained by [Caneco](https://caneco.dev).
-
-
-
-## License
-
-Blade UI Kit is open-sourced software licensed under [the MIT license](LICENSE.md).
