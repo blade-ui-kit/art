@@ -41,10 +41,6 @@ The logo is using the following fonts:
 
 - Open the file; *Right-click* on the image; Choose **"Save image as…"** option;
 
-## Changelog
-
-Check out the [CHANGELOG](CHANGELOG.md) in this repository for all the recent changes.
-
 ## Maintainers
 
 **Blade UI Kit** is developed and maintained by [Dries Vints](https://driesvints.com).
