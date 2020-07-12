@@ -45,7 +45,7 @@ The logo is using the following fonts:
 
 ## Installation
 
-- Open the file; Right-click on the image; Choose "Save image as…" option;
+- Open the file; *Right-click* on the image; Choose **"Save image as…"** option;
 
 
 
@@ -57,9 +57,9 @@ Check out the [CHANGELOG](CHANGELOG.md) in this repository for all the recent ch
 
 ## Maintainers
 
-Blade UI Kit is developed and maintained by [Dries Vints](https://driesvints.com).
+**Blade UI Kit** is developed and maintained by [Dries Vints](https://driesvints.com).
 
-Blade UI Kit logo and branding is developed and maintained by [Caneco](https://caneco.dev).
+Blade UI Kit **Logo and Branding** is developed and maintained by [Caneco](https://caneco.dev).
 
 
 
