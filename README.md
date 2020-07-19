@@ -44,3 +44,7 @@ The logo is using the following fonts:
 **Blade UI Kit** is developed and maintained by [Dries Vints](https://driesvints.com).
 
 Blade UI Kit **Logo and Branding** is developed and maintained by [Caneco](https://caneco.dev).
+
+## License
+
+All rights reserved.
