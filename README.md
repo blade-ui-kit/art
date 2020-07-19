@@ -1,9 +1,5 @@
 <p align="center">
     <img src="/socialcard.png" width="1280" title="Social Card Blade UI Kit">
-    <p align="center">
-        <a href="https://packagist.org/packages/blade-ui-kit/art"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/blade-ui-kit/art"></a>
-        <a href="https://packagist.org/packages/blade-ui-kit/art"><img alt="License" src="https://img.shields.io/packagist/l/pestphp/dust"></a>
-    </p>
 </p>
 
 # Blade UI Kit Art
