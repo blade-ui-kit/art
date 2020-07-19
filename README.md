@@ -10,8 +10,8 @@ The logo was heavily inspired on the original isometric grid of the [Laravel Log
 
 The logo is using the following fonts:
 
-- https://fonts.google.com/specimen/Muli
-- https://fonts.google.com/specimen/Hind
+- [Muli](https://fonts.google.com/specimen/Muli)
+- [Hind](https://fonts.google.com/specimen/Hind)
 
 ## Colors
 
